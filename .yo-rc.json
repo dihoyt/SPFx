@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.5.1",
+    "libraryName": "anchor-tagger",
+    "libraryId": "b89bd68e-a984-4743-85bf-7f9585534fef",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

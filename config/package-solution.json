@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "Anchor Links web part by DIHoyt",
+    "id": "b89bd68e-a984-4743-85bf-7f9585534fef",
+    "version": "1.1.0.32",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/anchor-tagger.sppkg"
+  }
+}
